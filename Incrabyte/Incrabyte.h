@@ -4,5 +4,12 @@
 #pragma once
 
 #include <iostream>
+#include <string>
 
 // TODO: Reference additional headers your program requires here.
+
+using std::cout;
+using std::cin;
+using std::endl;
+
+int encoder();
